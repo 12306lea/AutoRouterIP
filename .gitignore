@@ -1,0 +1,5 @@
+*.html
+*.pyc
+*.yaml
+*.log
+.idea/
