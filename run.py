@@ -6,6 +6,6 @@ if __name__ == '__main__':
     if RouterConfig.routerType == "TPLINK":
         tp = tpLinkRouter()
         tp.main()
-    elif RouterConfig.routerType == "小米":
+    elif RouterConfig.routerType == "xiaomi":
         xiaomi = xiaomiRouter()
         xiaomi.main()
